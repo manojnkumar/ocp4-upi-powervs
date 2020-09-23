@@ -16,7 +16,7 @@ Install the following packages on the automation host. Select the appropriate in
 
 ### IBM Cloud Terraform Provider
 
-**IBM Cloud Terraform Provider v1.9.0**: Please refer to the section "Install the IBM Cloud Provider plug-in" from the [link](https://cloud.ibm.com/docs/terraform?topic=terraform-getting-started#install) for instructions on installing the provider plugin.
+**IBM Cloud Terraform Provider v1.9.0, < v1.10.0 **: Please refer to the section "Install the IBM Cloud Provider plug-in" from the [link](https://cloud.ibm.com/docs/terraform?topic=terraform-getting-started#install) for instructions on installing the provider plugin. The Terraform provider is for specific versions of Terraform and Terraform 0.12.x requires the use of v1.9.0 of the IBM Cloud Terraform Provider.
 
 ### PowerVS CLI
 
